@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sonic/static/css/main.05353c6d.css",
+    "main.js": "/Sonic/static/js/main.8faa8c88.js",
+    "static/js/453.0d2589f3.chunk.js": "/Sonic/static/js/453.0d2589f3.chunk.js",
+    "index.html": "/Sonic/index.html",
+    "main.05353c6d.css.map": "/Sonic/static/css/main.05353c6d.css.map",
+    "main.8faa8c88.js.map": "/Sonic/static/js/main.8faa8c88.js.map",
+    "453.0d2589f3.chunk.js.map": "/Sonic/static/js/453.0d2589f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05353c6d.css",
+    "static/js/main.8faa8c88.js"
+  ]
+}
